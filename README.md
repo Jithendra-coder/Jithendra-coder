@@ -1,27 +1,26 @@
-# Jithendra
+# Muttum Jithendra
 
-I build developer tools for reliable AI systems, APIs, and distributed workflows. My work focuses on clear failure behavior, useful evidence, and automation that stays reviewable.
+### Python-focused developer building tools for APIs, AI evaluation, and restaurant operations.
+
+Most of my hands-on work is in Python. I build practical software across API change analysis, AI evaluation, durable workflows, incident exercises, and restaurant operations.
 
 ## Selected projects
 
 | Project | What it does |
 | --- | --- |
-| [RelayCore](https://github.com/Jithendra-coder/RelayCore) | PostgreSQL-backed workflow execution with durable retries, leases, idempotency, and worker recovery. |
-| [OpenTrace](https://github.com/Jithendra-coder/OpenTrace) | Compares supported OpenAPI changes, maps affected code, and validates bounded migration patches. |
-| [SentinelGraph](https://github.com/Jithendra-coder/sentinelgraph-incident-lab) | A local SRE incident-investigation lab with cited evidence and approval-gated simulated recovery. |
-| [AgentLens](https://github.com/Jithendra-coder/AgentLens) | Provider-independent trace, evaluation, replay, and release-gate workflows; roadmap and security limits are explicit. |
-| [MenuTap / PlaceURorder](https://github.com/Jithendra-coder/PlaceURorder) | A Next.js and FastAPI ordering, POS, kitchen display, and merchant-operations app. |
+| [OpenTrace](https://github.com/Jithendra-coder/OpenTrace) | Analyzes supported OpenAPI changes, maps affected code, and optionally generates bounded patches with AI providers. |
+| [AgentLens](https://github.com/Jithendra-coder/AgentLens) | Captures AI application traces for evaluation, replay, regression reports, and release gates. |
+| [RelayCore](https://github.com/Jithendra-coder/RelayCore) | Runs PostgreSQL-backed workflows with durable retries, leases, idempotency, and worker recovery. |
+| [SentinelGraph](https://github.com/Jithendra-coder/sentinelgraph-incident-lab) | A deterministic local incident lab with simulated evidence and recovery. |
+| [PlaceURorder](https://github.com/Jithendra-coder/PlaceURorder) | A restaurant ordering and operations app for kiosks, counter POS, kitchen displays, and merchants. |
+| [Hate Speech Detector](https://github.com/Jithendra-coder/Hate-Detection-System) | A local Flask API and Chrome extension for LSTM text screening; scans are manual by default and results are advisory. |
 
-## Stack
+## Tools used across my projects
 
-Python · TypeScript · FastAPI · React / Next.js · PostgreSQL · SQLite · Docker
+Python · FastAPI · Next.js · PostgreSQL · Redis · SQLite · Docker
 
-## Try a project
+## Demos
 
-- [RelayCore demo and local run guide](https://github.com/Jithendra-coder/RelayCore#run-the-demo-mode)
-- [SentinelGraph incident walkthrough](https://github.com/Jithendra-coder/sentinelgraph-incident-lab/blob/main/docs/demo.md)
-- [OpenTrace quick demo](https://github.com/Jithendra-coder/OpenTrace#quick-demo)
-
-Also: [Hate Speech Detector](https://github.com/Jithendra-coder/Hate-Detection-System), a local API and browser-extension prototype for LSTM-assisted text screening.
-
-Demo and deployment limits are documented in each project. Simulated behavior is labeled as simulated.
+- [OpenTrace quick demo](https://github.com/Jithendra-coder/OpenTrace#quick-demo) — bundled samples, no setup needed.
+- [RelayCore local demo](https://github.com/Jithendra-coder/RelayCore#run-the-demo-mode) — Docker Compose walkthrough.
+- [SentinelGraph walkthrough](https://github.com/Jithendra-coder/sentinelgraph-incident-lab/blob/main/docs/demo.md) — simulated incidents and recovery.
