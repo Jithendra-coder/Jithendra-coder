@@ -1,26 +1,25 @@
 # Muttum Jithendra
 
-### Python-focused developer building tools for APIs, AI evaluation, and restaurant operations.
+### Python-focused software engineer building dependable backend systems and practical AI products.
 
-Most of my hands-on work is in Python. I build practical software across API change analysis, AI evaluation, durable workflows, incident exercises, and restaurant operations.
+I work across API engineering, applied machine learning, AI evaluation, and product software. I care about making systems useful in practice, clear about their evidence, and safe around their limits.
 
-## Selected projects
+## Engineering focus
 
-| Project | What it does |
-| --- | --- |
-| [OpenTrace](https://github.com/Jithendra-coder/OpenTrace) | Analyzes supported OpenAPI changes, maps affected code, and optionally generates bounded patches with AI providers. |
-| [AgentLens](https://github.com/Jithendra-coder/AgentLens) | Captures AI application traces for evaluation, replay, regression reports, and release gates. |
-| [RelayCore](https://github.com/Jithendra-coder/RelayCore) | Runs PostgreSQL-backed workflows with durable retries, leases, idempotency, and worker recovery. |
-| [SentinelGraph](https://github.com/Jithendra-coder/sentinelgraph-incident-lab) | A deterministic local incident lab with simulated evidence and recovery. |
-| [PlaceURorder](https://github.com/Jithendra-coder/PlaceURorder) | A restaurant ordering and operations app for kiosks, counter POS, kitchen displays, and merchants. |
-| [Hate Speech Detector](https://github.com/Jithendra-coder/Hate-Detection-System) | A local Flask API and Chrome extension for LSTM text screening; scans are manual by default and results are advisory. |
+- Backend services, APIs, and data workflows
+- Applied ML, LLM evaluation, and retrieval
+- Agentic systems with traceable tools and human approval
+- Reliability, testing, and operational safety
 
-## Tools used across my projects
+## Tools I use
 
-Python · FastAPI · Next.js · PostgreSQL · Redis · SQLite · Docker
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
-## Demos
+## Connect
 
-- [OpenTrace quick demo](https://github.com/Jithendra-coder/OpenTrace#quick-demo) — bundled samples, no setup needed.
-- [RelayCore local demo](https://github.com/Jithendra-coder/RelayCore#run-the-demo-mode) — Docker Compose walkthrough.
-- [SentinelGraph walkthrough](https://github.com/Jithendra-coder/sentinelgraph-incident-lab/blob/main/docs/demo.md) — simulated incidents and recovery.
+[Portfolio](https://jithendra.me) · [LinkedIn](https://www.linkedin.com/in/jithendra-coder) · [Email](mailto:muttumjithendra@gmail.com)
